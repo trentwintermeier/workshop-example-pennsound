@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Pennsound material" ] },
+    "homepage": [
+      {
+        "id": "https://writing.upenn.edu/pennsound/singles/",
+        "type": "Text",
+        "label": { "en": [ "Pennsound material" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://writing.upenn.edu/pennsound",
+        "type": "Agent",
+        "label": { "en": [ "Pennsound" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 90.0,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601401.us.archive.org/20/items/aliperti-pia-17-readers-writers-capstone-upenn-5-13-07/Aliperti-Pia_17_Readers-Writers_Capstone_UPenn_5-13-07.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 90.0
+                },
+                "target": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
