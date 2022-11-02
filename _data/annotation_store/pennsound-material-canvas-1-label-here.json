@@ -1,0 +1,206 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/workshop-example-pennsound/annotations/pennsound-material-canvas-1-label-here.json",
+  "type": "AnnotationPage",
+  "label": "Label here",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.518909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Read a poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.518909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2.948470"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I wrote when I was supossed to be working",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4.288684"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5.628898"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's about an experience in the fellows class and it's for my thesis",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "6.879764"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So, I feel like it just, uh kind of puts everything together",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "10.185625"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Um",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "13.848876"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-label-here-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sorry",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.171914"
+        }
+      }
+    }
+  ]
+}
