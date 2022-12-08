@@ -1,0 +1,44 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/workshop-example-pennsound/annotations/pennsound-material-canvas-1-read-a-poem.json",
+  "type": "AnnotationPage",
+  "label": "Read a poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pennsound-material-canvas-1-read-a-poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "1.518909",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "518909",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/workshop-example-pennsound/pennsound-material/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.518909"
+        }
+      }
+    }
+  ]
+}
